@@ -23,7 +23,7 @@ public class TreeNode implements Serializable {
 	/**
 	 * 是否为父节点
 	 */
-	private Boolean isParent;
+	private Boolean isParent = true;
 
 	public String getId() {
 		return id;
