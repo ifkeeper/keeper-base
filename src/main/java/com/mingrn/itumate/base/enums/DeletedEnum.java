@@ -1,4 +1,4 @@
-package com.mingrn.keeper.base.enums;
+package com.mingrn.itumate.base.enums;
 
 /**
  * 删除状态枚举类

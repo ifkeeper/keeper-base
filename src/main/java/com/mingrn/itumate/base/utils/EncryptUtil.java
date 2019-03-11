@@ -1,7 +1,7 @@
-package com.mingrn.keeper.base.utils;
+package com.mingrn.itumate.base.utils;
 
 
-import com.mingrn.keeper.base.constants.Constant;
+import com.mingrn.itumate.base.constants.Constant;
 
 import java.nio.charset.Charset;
 import java.util.Base64;

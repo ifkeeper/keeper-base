@@ -1,4 +1,4 @@
-package com.mingrn.keeper.base.constants;
+package com.mingrn.itumate.base.constants;
 
 /**
  * 常量类

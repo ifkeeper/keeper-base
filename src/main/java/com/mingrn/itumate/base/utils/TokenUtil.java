@@ -1,4 +1,4 @@
-package com.mingrn.keeper.base.utils;
+package com.mingrn.itumate.base.utils;
 
 /**
  * 只适用于jwt格式的token工具类

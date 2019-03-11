@@ -1,4 +1,4 @@
-package com.mingrn.keeper.base.enums;
+package com.mingrn.itumate.base.enums;
 
 /**
  * Status 状态码

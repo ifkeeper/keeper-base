@@ -1,4 +1,4 @@
-package com.mingrn.keeper.base.utils;
+package com.mingrn.itumate.base.utils;
 
 import java.util.Random;
 
